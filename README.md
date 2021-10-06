@@ -75,7 +75,7 @@ LLFFFRFLFL
 ## Installation
 1. Clone the repo
    ```sh
-   git clone https://github.com/TomJD/Net-Challenge-Martian-Robots
+   git clone https://github.com/TomJD/Net-Challenge-Martian-Robots.git
    ```
 2. Run the project
 3. Enter sample data
